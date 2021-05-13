@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Framework.Core\Framework.Core.csproj" />
+    <PackageReference Include="Dotin.Framework.Domain" Version="2.0.1" />
   </ItemGroup>
 
 </Project>
