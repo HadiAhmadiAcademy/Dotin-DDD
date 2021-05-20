@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Framework.Application;
-using LoanApplications.Domain.Model.Applicants;
 using LoanApplications.Domain.Model.LoanApplications;
 
 namespace LoanApplications.Application
